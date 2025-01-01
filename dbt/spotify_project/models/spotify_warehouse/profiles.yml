@@ -1,0 +1,14 @@
+spotify_project:
+  outputs:
+    dev:
+      account: "{{ env_var('SNOWFLAKE_ACCOUNT')}}"
+      database: "{{ env_var('SNOWFLAKE_DATABASE')}}"
+      password: "{{ env_var('SNOWFLAKE_PASSWORD')}}"
+      role: "{{ env_var('SNOWFLAKE_ROLE')}}"
+      schema: "{{ env_var('SNOWFLAKE_SCHEMA')}}"
+      threads: 2
+      type: snowflake
+      user: "{{ env_var('SNOWFLAKE_USERNAME')}}"
+      warehouse: "{{ env_var('SNOWFLAKE_WAREHOUSE')}}"
+      timeout_seconds: 300
+  target: dev
