@@ -10,12 +10,6 @@ Throughout this project I delved into the realm of data using Pythons libraries 
 
 Through the Spotify Data Analysis Project I not sharpened my skills but also gained a deep understanding of how data intertwines, with the world of music. This journey provided insights. Equipped me with confidence to undertake similar projects in the future.
 
-<p>Feel free to reach out for any questions or suggestions about this project. I'm open to discussions and eager to assist.
- <a href="https://www.linkedin.com/in/mariya-jos/">
-  <img src=" Linkedln | Mariya Joseph" alt=""> Linkedln | Mariya Joseph</a><br>
-  
-  Don't forget to follow and star ⭐ the repository if you find it valuable.</p>
-
 Dataset: <a href="https://www.kaggle.com/datasets/lehaknarnauli/spotify-datasets?select=artists.csv">
          <img src=" Spotify Dataset" alt=""> Spotify Dataset</a><br>
 </p>
