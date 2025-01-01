@@ -13,7 +13,4 @@ Dataset: <a href="https://www.kaggle.com/datasets/lehaknarnauli/spotify-datasets
          <img src=" Spotify Dataset" alt=""> Spotify Dataset</a><br>
 </p>
 
-  <h1><a name="importrequiredlibraries">Import Required Libraries</a></h1>
-  
-
   </ol>
